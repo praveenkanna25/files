@@ -1,0 +1,27 @@
+body {
+}
+.main {
+  height: 400px;
+}
+.box {
+  width: 100%;
+  height: 40px;
+  background-color: darkred;
+}
+.login {
+  text-align: center;
+}
+#register-btn {
+  display: none;
+}
+#login-link {
+  display: none;
+}
+#login-success,
+#login-fail {
+  display: none;
+}
+#register-success,
+#register-fail {
+  display: none;
+}

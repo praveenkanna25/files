@@ -1,0 +1,400 @@
+body{
+    margin: auto;
+    background-color: lightgrey;
+}
+div#app{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    background-color: sandybrown;
+}
+.logo{
+    float: left;
+    padding: 10px;
+}
+#search{
+    float: right;
+    padding: 10px;
+}
+.clearfix{
+    clear: both;
+}
+.Nav{
+    background-color: yellow;
+}
+.Nav ul{
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+}
+.Nav>ul>li{
+    display: inline-block;
+}
+.Nav>ul a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    padding: 5px;
+}
+.Nav>ul a:hover{
+    background-color: orange;
+}
+.drop{
+    position: absolute;
+    background-color: pink;
+    width: auto;
+    height: auto;
+    display: none;
+    z-index: 999;
+}
+.Nav>ul>li:hover .drop{
+     display: block;
+}
+.banner{
+    height: 400px;
+    overflow: hidden;
+    
+}
+.content h3{
+    margin: 0px;
+}
+.content{
+    background-color: pink;
+    padding: 10px;
+    width: 750px;
+    height: auto;
+    float: left;
+}
+.side_bar h4{
+    margin: 0px;
+}
+.side_bar{
+    float: left;
+    margin: auto;
+    padding: 10px;
+}
+.footer{
+    background-color: lightcoral;
+    color: black;
+    padding: 10px;
+    height: 180px;
+}
+#footer_box{
+    float: left;
+    padding: 20px;
+}
+.Copy{
+    background-color: rebeccapurple;
+}
+.Address{
+    background-color: aqua;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+}
